@@ -1,0 +1,5 @@
+atributos em python não ficam realmente privados como em outras liguagens de programação
+
+__ - mesmo usando isso para proteger, os arquivos podemos alterá-los.
+
+property - linka o getter and setter de um atributo

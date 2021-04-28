@@ -1,13 +1,13 @@
 #criando uma classe
 class caneta:
-    x = 'preta'
+    x = 'preta' #posso instanciar a classe em si
 print(caneta)
 
 #criando um objeto
 obj = caneta()
 print(obj.x) #sem o atributo mostra apenas o local da memória onde o objeto está instanciado
 
-#---------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------
 
 #funcao __init__() - Todas as classes possuem uma função chamada __init __ (), que sempre é executada quando a classe está sendo iniciada. usada para atribuir valores às propriedades do objeto ou outras operações que são necessárias quando o objeto está sendo criado:
 
